@@ -1,0 +1,10 @@
+body {
+  background-image: url("../img/topography.png");
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+}
